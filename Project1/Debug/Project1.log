@@ -1,0 +1,5 @@
+﻿  primitive.cpp
+f:\homework\image\ray_final\project1\project1\primitive.cpp(271): warning C4018: “<”: 有符号/无符号不匹配
+f:\homework\image\ray_final\project1\project1\primitive.cpp(305): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project1.vcxproj -> F:\homework\image\ray_final\Project1\Debug\Project1.exe
+  Project1.vcxproj -> F:\homework\image\ray_final\Project1\Debug\Project1.pdb (Partial PDB)
